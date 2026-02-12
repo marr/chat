@@ -29,7 +29,7 @@ export default defineNuxtConfig({
     viewTransition: true
   },
 
-  compatibilityDate: '2024-07-11',
+  compatibilityDate: '2025-02-12',
 
   nitro: {
     experimental: {
